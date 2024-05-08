@@ -1,10 +1,12 @@
-# anime-photos
+# anime-photos🖼️📷
 
-This is my backup folder of draws/sketch/anime/images/photos i like it, if you are the owner of some of the images are in the repo, open an issue to me remove.
-dont have an "main" anime/theme here, are things i like.
+This is my backup folder of draws/sketch/anime/images/photos i like it, if you are the owner of some of the images are in the repo, and want to remove, open an issue putting the name and i delete it.
+<br>
+<br>
+Dont have an "main" anime/theme here, are things i like.
 
 
-# @/Owners
+# @/Owners🫨
 I always going try to add the @ of creator on image, but if dont have or i forget to add, is going to not have. 
 <br>
 Like this ones:
