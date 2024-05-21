@@ -14,9 +14,9 @@ Like this ones:
 <br>
 <br>
 @TOKYOLUV:
-![@TOKYOLUV](https://github.com/slowayy/anime-photos/assets/85556196/67ad00be-9feb-4223-9d59-17e0283f6d5a)
+![@TOKYOLUV](https://github.com/slowayy/anime-photos/blob/main/photos/@TOKYOLUV.jpg?raw=true)
 <br>
 <br>
 <br>
 @natari_illust
-![@natari_illust](https://github.com/slowayy/anime-photos/assets/85556196/89cc6f4d-3e7c-458a-87b9-db7af19c901e)
+![@natari_illust](https://github.com/slowayy/anime-photos/blob/main/photos/@natari_illust.jpg?raw=true)
